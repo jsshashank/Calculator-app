@@ -223,7 +223,7 @@ export default function CalculatorUIPreview() {
               <Typography
                 variant="h5"
                 sx={{
-                  fontWeight: "bold",
+                  fontWeight: "medium",
                   fontFamily: "Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial",
                   color: mode === "light" ? "#000000" : "#ffffff",
                 }}
@@ -332,7 +332,8 @@ export default function CalculatorUIPreview() {
                 color: mode === "light" ? "#666666" : "#cccccc",
               }}
             >
-              Tip: Click the theme icon to toggle dark/light.
+              Made by <span class="text:underline"><a href="https://github.com/jsshashank" target="_blank" rel="noopener noreferrer" class="underline text-blue-900/80">j.s.shashank</a></span> <span class="pl-6">Tip: Click the theme icon to toggle dark/light.</span>
+
             </Typography>
           </Stack>
         </Container>
