@@ -29,6 +29,9 @@ Supports **light/dark theme toggle**, responsive design, and a clean modern UI.
 
 ---
 
+<samp>Live Demo : <a href="https://calculator-app-sable-theta-28.vercel.app/" target="_blank" rel="noopener noreferrer">Click here</a></samp>
+
+---
 
 ### 1. Clone the project
 ```bash
