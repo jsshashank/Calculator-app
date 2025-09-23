@@ -262,7 +262,7 @@ export default function CalculatorUIPreview() {
                     variant="h3"
                     sx={{
                       textAlign: "right",
-                      fontWeight: "bold",
+                      fontWeight: "medium",
                       userSelect: "none",
                       wordBreak: "break-all",
                       marginTop: "8px",
@@ -293,8 +293,8 @@ export default function CalculatorUIPreview() {
                         sx={{
                           height: { xs: "56px", sm: "64px" },
                           borderRadius: "16px",
-                          fontWeight: "bold",
-                          fontSize: "1.125rem",
+                          fontWeight: "medium",
+                          fontSize: "1.5rem",
                           backgroundColor:
                             k.color === "primary"
                               ? undefined
